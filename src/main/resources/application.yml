@@ -1,0 +1,7 @@
+## YAML Template.
+---
+spring:
+  application:
+    name: user-management-services
+server:
+  port: 8080
